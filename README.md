@@ -8,5 +8,5 @@
 Construído com python e tkinter
 
 <div style="display: inline;">
-  <img src="image/image1.png" alt="image1" width="480" height="380">
+  <img src="image/image1.png" alt="image1" width="979" height="524">
 </div>
