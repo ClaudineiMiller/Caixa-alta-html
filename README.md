@@ -5,7 +5,7 @@
 -  Título
 -  Copia o texto
 
-Construído com python e tkinter
+Construído com HTML, CSS, bootstrap e javascript.
 
 <div style="display: inline;">
   <img src="image/image1.png" alt="image1">
